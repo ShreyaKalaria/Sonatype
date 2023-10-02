@@ -537,7 +537,7 @@
                 <!-- Used for sample applications only - not required for the framework: -->
                 <groupId>org.hibernate</groupId>
                 <artifactId>hibernate</artifactId>
-                <version>3.2.6.ga</version>
+                <version>3.3.0.GA</version>
                 <optional>true</optional>
                 <exclusions>
                     <exclusion>
