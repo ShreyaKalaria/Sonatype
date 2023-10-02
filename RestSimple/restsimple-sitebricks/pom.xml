@@ -57,7 +57,7 @@
         <dependency>
             <groupId>com.google.sitebricks</groupId>
             <artifactId>sitebricks</artifactId>
-            <version>0.8.5</version>
+            <version>0.8.9</version>
         </dependency>
 
         <dependency>
