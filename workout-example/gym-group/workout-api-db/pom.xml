@@ -26,7 +26,7 @@
     <dependency>
     	<groupId>org.hibernate</groupId>
     	<artifactId>hibernate</artifactId>
-    	<version>3.2.7.ga</version>
+    	<version>3.3.0.GA</version>
     	<type>jar</type>
     	<scope>compile</scope>
     	<exclusions>
