@@ -27,7 +27,7 @@
     <dependency>
       <groupId>net.sourceforge.cobertura</groupId>
       <artifactId>cobertura</artifactId>
-      <version>1.9.4.1</version>
+      <version>2.1.1</version>
     </dependency>
     <!-- runtime has no 3rd party deps. This allows us to pass this dependency into the project's classpath at runtime without risk of introducing dep version clashes e.g. projects which require an older version of asm (namely Hibernate). -->
     <dependency>
