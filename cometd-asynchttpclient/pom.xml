@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.ning</groupId>
             <artifactId>async-http-client</artifactId>
-            <version>1.6.3</version>
+            <version>1.7.1</version>
         </dependency>
 
         <dependency>
@@ -81,7 +81,7 @@
                                 <argument>-Xms1024m</argument>
                                 <argument>-Xmn512m</argument>
                                 <argument>-cp</argument>
-                                <classpath />
+                                <classpath/>
                                 <argument>org.cometd.client.BayeuxLoadServer</argument>
                             </arguments>
                             <classpathScope>test</classpathScope>
