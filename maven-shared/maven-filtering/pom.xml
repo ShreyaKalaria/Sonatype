@@ -50,7 +50,7 @@
   </issueManagement>
   
   <properties>
-    <mavenVersion>2.0.6</mavenVersion>
+    <mavenVersion>3.0</mavenVersion>
   </properties>
   
   <dependencies>
