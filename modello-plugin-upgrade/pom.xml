@@ -13,7 +13,7 @@
   <name>Modello Upgrade Generator Plugin</name>
 
   <properties>
-    <modelloVersion>1.0.1</modelloVersion>
+    <modelloVersion>2.1.2</modelloVersion>
     <mavenVersion>2.0.9</mavenVersion>
     <plexusUtilsVersion>1.5.15</plexusUtilsVersion>
   </properties>
