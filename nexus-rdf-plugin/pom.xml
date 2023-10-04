@@ -47,7 +47,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     <nexus.version>2.0.4</nexus.version>
-    <nexus-capabilities-plugin.version>2.0.2</nexus-capabilities-plugin.version>
+    <nexus-capabilities-plugin.version>2.2</nexus-capabilities-plugin.version>
     <nexus.plugin.type>nexus-plugin</nexus.plugin.type>
   </properties>
 
