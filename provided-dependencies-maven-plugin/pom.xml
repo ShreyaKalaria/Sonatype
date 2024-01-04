@@ -35,7 +35,7 @@
   </scm>
 
   <properties>
-    <maven.version>3.0</maven.version>
+    <maven.version>3.8.1</maven.version>
   </properties>
 
   <dependencies>
