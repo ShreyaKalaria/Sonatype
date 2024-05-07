@@ -15,7 +15,7 @@
   <packaging>maven-plugin</packaging>
 
   <properties>
-    <maven.version>2.0.9</maven.version>
+    <maven.version>2.2.1</maven.version>
   </properties>
 
   <prerequisites>
