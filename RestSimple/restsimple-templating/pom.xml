@@ -58,7 +58,7 @@
         <dependency>
             <groupId>org.sonatype.plexus.template</groupId>
             <artifactId>plexus-template</artifactId>
-            <version>0.9.2</version>
+            <version>0.9.5</version>
         </dependency>
     </dependencies>
 </project>
