@@ -84,7 +84,7 @@
              modules' OSGi metadata: -->
         <quartz.version>1.6.1</quartz.version>
         <slf4j.version>1.6.1</slf4j.version>
-        <spring.version>3.0.5.RELEASE</spring.version>
+        <spring.version>5.3.38</spring.version>
 
         <!-- Test 3rd-party dependencies: -->
         <easymock.version>3.0</easymock.version>
