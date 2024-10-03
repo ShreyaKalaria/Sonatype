@@ -55,7 +55,7 @@
   <properties>
     <maven.version>3.2.3</maven.version>
     <aether.version>1.0.0.v20140518</aether.version>
-    <maven-wagon.version>2.7</maven-wagon.version>
+    <maven-wagon.version>3.5.3</maven-wagon.version>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
