@@ -34,13 +34,13 @@ under the License.
     </license>
   </licenses>
   <properties>
-    <jetty.version>7.0.0.v20091005</jetty.version>
-    <distMgmtReleaseId></distMgmtReleaseId>
-    <distMgmtReleaseName></distMgmtReleaseName>
-    <distMgmtReleaseUrl></distMgmtReleaseUrl>
-    <distMgmtSnapshotsId></distMgmtSnapshotsId>
-    <distMgmtSnapshotsName></distMgmtSnapshotsName>
-    <distMgmtSnapshotsUrl></distMgmtSnapshotsUrl>
+    <jetty.version>12.0.12</jetty.version>
+    <distMgmtReleaseId/>
+    <distMgmtReleaseName/>
+    <distMgmtReleaseUrl/>
+    <distMgmtSnapshotsId/>
+    <distMgmtSnapshotsName/>
+    <distMgmtSnapshotsUrl/>
   </properties>
   
   <distributionManagement>
