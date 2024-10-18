@@ -21,7 +21,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty-version>7.1.5.v20100705</jetty-version>
+        <jetty-version>12.0.12</jetty-version>
     </properties>
 
     <dependencies>
@@ -81,7 +81,7 @@
                                 <argument>-Xms1024m</argument>
                                 <argument>-Xmn512m</argument>
                                 <argument>-cp</argument>
-                                <classpath />
+                                <classpath/>
                                 <argument>org.cometd.client.BayeuxLoadServer</argument>
                             </arguments>
                             <classpathScope>test</classpathScope>
