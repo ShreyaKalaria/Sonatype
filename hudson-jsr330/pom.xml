@@ -87,7 +87,7 @@
     </scm>
 
     <properties>
-        <hudsonVersion>1.377</hudsonVersion>
+        <hudsonVersion>2.2.1</hudsonVersion>
     </properties>
 
     <dependencyManagement>
